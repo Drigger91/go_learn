@@ -5,7 +5,7 @@ import "fmt"
 const LoginToken string = "sometoken" // capital first letter is to define this is public
 
 func main() {
-	fmt.Println("Variable file bitch")
+	fmt.Println("Variable file")
 	variableIntroduction()
 	fmt.Println(LoginToken)
 }
