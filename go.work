@@ -9,4 +9,6 @@ use (
 	./06pointers
 	./07maps
 	./08arrays
+	./09structs
+	./10ifelse
 )
