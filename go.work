@@ -11,4 +11,7 @@ use (
 	./08arrays
 	./09structs
 	./10ifelse
+	./11switch
+	./12loops
+	./13functions
 )
