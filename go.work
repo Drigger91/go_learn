@@ -14,4 +14,7 @@ use (
 	./11switch
 	./12loops
 	./13functions
+	./14methods
+	./15deferkeyword
+	./16files
 )
